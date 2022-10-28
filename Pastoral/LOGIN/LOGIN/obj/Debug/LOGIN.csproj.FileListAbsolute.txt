@@ -1,0 +1,11 @@
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\bin\Debug\LOGIN.exe.config
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\bin\Debug\LOGIN.exe
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\bin\Debug\LOGIN.pdb
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\obj\Debug\LOGIN.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\obj\Debug\LOGIN.Form1.resources
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\obj\Debug\LOGIN.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\obj\Debug\LOGIN.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\obj\Debug\LOGIN.exe
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\obj\Debug\LOGIN.pdb
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\bin\Debug\Interfas Grafica.exe
+C:\Users\Usuario\Desktop\Pastoral\LOGIN\LOGIN\bin\Debug\Interfas Grafica.pdb

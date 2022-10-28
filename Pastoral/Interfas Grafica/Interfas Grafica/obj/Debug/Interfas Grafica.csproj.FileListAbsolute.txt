@@ -1,0 +1,17 @@
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\bin\Debug\Interfas Grafica.exe.config
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas Grafica.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.FormPrincipalxx.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas Grafica.csproj.GenerateResource.Cache
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\bin\Debug\Interfas Grafica.exe
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\bin\Debug\Interfas Grafica.pdb
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas Grafica.exe
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas Grafica.pdb
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form1.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form2.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form3.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form4.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form5.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form6.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form7.resources
+C:\Users\Usuario\Desktop\Pastoral\Interfas Grafica\Interfas Grafica\obj\Debug\Interfas_Grafica.Form8.resources
